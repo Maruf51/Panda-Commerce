@@ -1,0 +1,66 @@
+.container {
+    margin-bottom: 80px;
+}
+
+.carousel-bg {
+    background-color: #fceae8;
+}
+
+.row {
+    padding: 20px 40px;
+}
+
+.price {
+    color: #ff136f;
+}
+
+.buy-now {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    outline: none !important;
+}
+
+.carousel-indicators li {
+    background-color: tomato;
+}
+
+.watch, .backpack, .shoes {
+    padding: 10px 30px;
+}
+
+.watch {
+    background-color: orange;
+}
+
+.backpack {
+    background-color: tomato;
+}
+
+.shoes {
+    background-color: blue;
+}
+
+.watchh {
+    padding-left: 0;
+}
+
+.shoess {
+    padding-right: 0;
+}
+
+.col-4 h1 {
+    float: left;
+}
+
+.col-4 img {
+    padding-left: 40px;
+    width: 160px;
+}
+
+.d-flex {
+    border-radius: 10px;
+}
